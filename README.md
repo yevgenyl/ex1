@@ -9,7 +9,7 @@
 
 - Below is an illustration of Undirected Weighted Graph **G(V,E)** with 7 vertices and 8 edges:
 
-![Image of undirected weighted graph](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/graph_image.png?raw=true)
+![Image of undirected weighted graph](https://github.com/yevgenyl/ex1/blob/master/res/graph_image.png?raw=true)
 
 ### Class and Interface Summary
 ![Image of class and interface summary](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/package_ex1_content.png?raw=true)
