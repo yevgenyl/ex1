@@ -12,7 +12,7 @@
 ![Image of undirected weighted graph](https://github.com/yevgenyl/ex1/blob/master/res/graph_image.png?raw=true)
 
 ### Class and Interface Summary
-![Image of class and interface summary](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/package_ex1_content.png?raw=true)
+![Image of class and interface summary](https://github.com/yevgenyl/ex1/blob/master/res/package_ex1_content.png?raw=true)
 
 ## WGraph_DS Class
 
@@ -29,9 +29,9 @@
 - Most of the basic operations (add node, get node, connect nodes.. etc) are running in a constant time O(1).
 
 ### Constructors
-![Image of graph ds constructors](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/WGraph_DS_Constructors.png?raw=true)
+![Image of graph ds constructors](https://github.com/yevgenyl/ex1/blob/master/res/WGraph_DS_Constructors.png?raw=true)
 ### Methods
-![Image of graph ds methods](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/WGraph_DS_Methods.png?raw=true)
+![Image of graph ds methods](https://github.com/yevgenyl/ex1/blob/master/res/WGraph_DS_Methods.png?raw=true)
 
 ## WGraph_Algo Class
 
@@ -53,9 +53,9 @@
   - **Dijkstra:** This algorithm is used by `shortestPath` and `shortestPathDist` methods to find the shortest path between two vertices.
 
 ### Constructors
-![Image of graph algo constructors](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/WGraph_Algo_Constructors.png?raw=true)
+![Image of graph algo constructors](https://github.com/yevgenyl/ex1/blob/master/res/WGraph_Algo_Constructors.png?raw=true)
 ### Methods
-![Image of graph ds methods](https://github.com/yevgenyl/JAVA_OOP_Weighted_Graph/blob/master/res/WGraph_Algo_Methods.png?raw=true)
+![Image of graph ds methods](https://github.com/yevgenyl/ex1/blob/master/res/WGraph_Algo_Methods.png?raw=true)
 
 ## Importing and Using the Project
 - In order to be able to use this project, you should have JDK 11 or above (not tetsted on older versions).
