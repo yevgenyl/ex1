@@ -57,6 +57,12 @@
 ### Methods
 ![Image of graph ds methods](https://github.com/yevgenyl/ex1/blob/master/res/WGraph_Algo_Methods.png?raw=true)
 
+## Unit Tests
+- This project was tested using JUnit 5 (Jupiter) unit tests.
+- Inside the tests folder you can find two JUnit test classes:
+  - **WGraph_DSTest:** this class was used to test the WGraph_DS class.
+  - **WGraph_AlgoTest:** this class was used to test the WGraph_Algo class. 
+
 ## Importing and Using the Project
 - In order to be able to use this project, you should have JDK 11 or above (not tetsted on older versions).
 
